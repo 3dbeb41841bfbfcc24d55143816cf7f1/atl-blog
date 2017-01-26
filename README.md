@@ -1,24 +1,16 @@
-# README
+# WDI-8 Rails Blog example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This particular blog example is a walkthrough of how to build out a simple blog using Rails.
 
-Things you may want to cover:
+Skills specifically focused on:
 
-* Ruby version
+- Resources in Routing
+- Associated Models
+- How Model/Views/Controllers are connected
+- Having an organized work flow
 
-* System dependencies
+Rails Version: '5.0.1'
+Ruby Version: '2.3.1'
+DB: 'Sqlite3'
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Inspiration and resources from: <a href="http://guides.rubyonrails.org/getting_started.html">Getting Started with Rails</a>

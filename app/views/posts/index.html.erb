@@ -1,0 +1,16 @@
+<h1>Your Posts!!!</h1>
+
+<% @posts.each do |post| %>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Body</th>
+    <th>Author</th>
+  </tr>
+  <tr>
+    <td><%= post.title %></td>
+    <td><%= post.body %></td>
+    <td><%= post.author %></td>
+  </tr>
+  <% end %>
+</table>

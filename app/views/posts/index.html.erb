@@ -11,6 +11,7 @@
     <td><%= post.title %></td>
     <td><%= post.body %></td>
     <td><%= post.author %></td>
+    <td><%= link_to 'Show', post_path(post) %></td>
     <td><%= link_to 'Edit', edit_post_path(post) %></td>
     <td><%= link_to 'Delete', post_path(post),
                     method: :delete,

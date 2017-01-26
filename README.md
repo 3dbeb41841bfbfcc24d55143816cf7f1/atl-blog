@@ -9,8 +9,9 @@ Skills specifically focused on:
 - How Model/Views/Controllers are connected
 - Having an organized work flow
 
-Rails Version: '5.0.1'
-Ruby Version: '2.3.1'
-DB: 'Sqlite3'
+Versions:
+- Rails Version: '5.0.1'
+- Ruby Version: '2.3.1'
+- DB: 'Sqlite3'
 
 Inspiration and resources from: <a href="http://guides.rubyonrails.org/getting_started.html">Getting Started with Rails</a>
